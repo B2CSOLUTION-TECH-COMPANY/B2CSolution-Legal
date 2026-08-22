@@ -1,306 +1,554 @@
 # B2C Solution — Intellectual Property Assignment Agreement
 
-**Effective Date:** __________________  
+**Effective Date:** 22 August 2026  
 **Last Updated:** 22 August 2026  
 **Version:** 1.0  
-**Organization:** B2C Solution
-
-> **Important:** This is a general intellectual-property assignment template and is not legal advice. It should be reviewed and customized by a qualified legal professional before being signed or used as a binding agreement.
+**Document Status:** Draft / Legal Review Recommended
 
 ---
 
 # 1. Parties
 
-This Intellectual Property Assignment Agreement ("Agreement") is entered into between:
+This Intellectual Property Assignment Agreement ("Agreement") is entered into between the following parties.
 
-### Company
+## 1.1 Company
 
-**B2C Solution**
+**Legal/Business Name:** B2C Solution  
+**Website:** https://b2csolutionseller.lovable.app  
+**Email:** b2csolution2436@gmail.com  
+**Location:** Pune, Maharashtra, India
 
-Website: https://b2csolutionseller.lovable.app  
-Email: b2csolution2436@gmail.com
+B2C Solution is referred to in this Agreement as the **"Company"**.
 
-and
+---
 
-### Contributor
+## 1.2 Contributor
 
-**Full Name:** ______________________________
+**Name:** Om Harde  
+**Location:** Pune, Maharashtra, India  
+**GitHub / Online Identifier:** `omharde42-dev`
 
-**Business / Organization:** ______________________________
+Om Harde is referred to in this Agreement as the **"Contributor"**.
 
-**Email:** ______________________________
-
-**Phone:** ______________________________
-
-**Address:** ______________________________
-
-The Company and Contributor are collectively referred to as the "Parties."
+The Company and the Contributor are collectively referred to as the **"Parties"**.
 
 ---
 
 # 2. Purpose
 
-The purpose of this Agreement is to establish ownership and usage rights relating to intellectual property created by the Contributor in connection with work performed for B2C Solution.
+The purpose of this Agreement is to establish ownership and intellectual-property rights relating to work created by the Contributor for or specifically in connection with B2C Solution.
 
-This may include work created as part of:
+This Agreement is intended to reduce uncertainty regarding ownership of company-related:
 
-- Software development;
-- Website development;
-- Application development;
-- UI/UX design;
-- Graphic design;
+- Source code;
+- Software;
+- Websites;
+- Web applications;
+- Designs;
+- UI/UX;
 - Documentation;
-- Research;
-- Technical development;
-- Marketing materials;
-- Other approved company projects.
+- Technical systems;
+- Databases;
+- Scripts;
+- Algorithms;
+- Graphics;
+- Branding materials;
+- Business materials;
+- Other original works.
 
 ---
 
 # 3. Definitions
 
-For this Agreement:
+## 3.1 Work Product
 
-### "Work Product"
+"Work Product" means original work created by the Contributor specifically for B2C Solution within the scope of an authorized B2C Solution project, assignment, or business activity.
 
-means materials created specifically for B2C Solution under the applicable project, contract, assignment, or engagement.
-
-### "Intellectual Property"
-
-may include:
+Work Product may include:
 
 - Source code;
 - Object code;
-- Software;
-- Designs;
+- Website code;
+- Application code;
 - UI components;
+- Design files;
 - Graphics;
-- Logos;
 - Documentation;
-- Technical architecture;
-- Databases;
+- Technical documentation;
+- Database structures;
 - Scripts;
+- Automation;
 - Algorithms;
-- Specifications;
-- Written materials;
-- Other protectable creations.
-
-### "Background IP"
-
-means intellectual property owned or controlled by the Contributor before the relevant engagement or developed independently outside the scope of the engagement.
+- Project architecture;
+- Other project-specific materials.
 
 ---
 
-# 4. Work Product
+## 3.2 Background Intellectual Property
 
-The Contributor agrees that Work Product specifically created for B2C Solution under the applicable engagement should be identified and handled according to this Agreement.
+"Background Intellectual Property" means intellectual property that:
 
-The Work Product may include:
+1. Was created before the relevant B2C Solution engagement; or
+2. Was independently created outside the scope of B2C Solution work without using B2C Solution Confidential Information or resources.
 
-- __________________________________________
-- __________________________________________
-- __________________________________________
-- __________________________________________
+Background Intellectual Property does not automatically become the Company's property merely because it is used during a project.
 
 ---
 
-# 5. Assignment of Rights
+## 3.3 Third-Party Materials
 
-To the extent permitted by applicable law, the Contributor assigns to B2C Solution the applicable intellectual-property rights in Work Product created specifically for B2C Solution under the relevant engagement.
+"Third-Party Materials" means materials owned or controlled by someone other than the Company or Contributor.
 
-The assignment should include rights necessary for B2C Solution to:
+Examples include:
+
+- Open-source software;
+- Commercial libraries;
+- Stock images;
+- Fonts;
+- Icons;
+- Templates;
+- APIs;
+- Frameworks;
+- Third-party designs;
+- Other externally licensed materials.
+
+---
+
+# 4. Scope of the Agreement
+
+This Agreement applies to Work Product created by the Contributor specifically for B2C Solution.
+
+It does not automatically transfer unrelated personal projects or independently developed work that falls outside the agreed scope.
+
+---
+
+# 5. Assignment of Intellectual Property
+
+To the maximum extent permitted by applicable law, the Contributor assigns to B2C Solution the applicable intellectual-property rights in Work Product created specifically for B2C Solution.
+
+The assignment is intended to give B2C Solution the ability to:
 
 - Use;
 - Reproduce;
 - Modify;
 - Adapt;
 - Maintain;
+- Improve;
+- Publish;
 - Distribute;
-- Display;
 - Commercialize;
 - License;
 - Sublicense;
+- Deploy;
+- Create derivative works from;
 
-the Work Product as permitted by applicable law and the applicable agreement.
+the applicable Work Product.
+
+The assignment applies to the Work Product covered by this Agreement and does not automatically include the Contributor's unrelated Background Intellectual Property.
 
 ---
 
 # 6. Consideration
 
-The Parties acknowledge that the compensation or other consideration for the relevant work is:
+The Parties acknowledge that the intellectual-property assignment forms part of the Contributor's agreed relationship with B2C Solution.
 
-**Amount / Consideration:** ______________________________
+Where separate compensation applies, the applicable:
 
-The applicable employment, contractor, freelance, or project agreement may contain additional payment terms.
+- Employment agreement;
+- Contractor agreement;
+- Project agreement;
+- Service agreement;
+- Compensation arrangement;
+
+will determine the applicable payment terms.
 
 ---
 
-# 7. Background Intellectual Property
+# 7. Existing Intellectual Property
 
-The Contributor retains ownership of Background IP unless expressly transferred under a separate written agreement.
+The Contributor retains ownership of Background Intellectual Property unless the Parties expressly agree otherwise in writing.
 
-The Contributor must identify relevant Background IP before using it in B2C Solution Work Product where practical.
+The Contributor should identify important Background Intellectual Property that is intended to be incorporated into B2C Solution projects.
 
-### Background IP
+### Known Background Intellectual Property
 
-```text
-____________________________________________________
+No specific Background Intellectual Property is identified in this Agreement unless separately documented.
 
-____________________________________________________
+---
 
-____________________________________________________
+# 8. Use of Background Intellectual Property
 
+If approved Background Intellectual Property is incorporated into B2C Solution Work Product, the Contributor agrees to provide B2C Solution with the rights reasonably necessary to use the incorporated material as part of the applicable project.
 
-```8. License to Background IP
-If approved Background IP is incorporated into Work Product, the Contributor should provide B2C Solution with the rights reasonably necessary to use that Background IP as part of the Work Product.
-The exact license should be specified where necessary.
-License Terms: ______________________________
-9. Third-Party Materials
-The Contributor must not knowingly include third-party materials in B2C Solution Work Product unless:
-- The Contributor has the right to use them;
-- The applicable license permits the intended use;
-- Required attribution is provided;
-- B2C Solution has approved the use where appropriate.
+The exact ownership or license arrangement should be documented where the Background Intellectual Property is commercially significant.
+
+---
+
+# 9. Third-Party Materials
+
+The Contributor must not knowingly include third-party material in B2C Solution Work Product unless the Contributor has the appropriate rights or license to use it.
+
+Where applicable, the Contributor should disclose:
+
+- Name of the third-party material;
+- License;
+- Source;
+- Restrictions;
+- Attribution requirements.
+
+---
+
+# 10. Open-Source Software
+
+Open-source software may be used where appropriate.
+
+However, contributors must comply with the applicable open-source license.
+
+Examples of relevant license considerations include:
+
+- Copyright notices;
+- Attribution;
+- Redistribution requirements;
+- Modification requirements;
+- Copyleft obligations;
+- Source-code disclosure requirements.
+
+Relevant third-party licenses should be documented in:
+
+`legal/THIRD_PARTY_LICENSES.md`
+
+---
+
+# 11. Contributor Representations
+
+The Contributor represents that, to the best of their knowledge:
+
+1. They have the right to provide the Work Product;
+2. They will not knowingly submit stolen or unauthorized material;
+3. They will disclose relevant third-party material;
+4. They will not intentionally introduce malicious code;
+5. They will respect applicable software licenses;
+6. They will not knowingly violate another person's intellectual-property rights.
+
+---
+
+# 12. Previous Employer or Client Restrictions
+
+The Contributor must not provide B2C Solution with confidential or proprietary material belonging to:
+
+- A previous employer;
+- Another client;
+- Another company;
+- Another organization;
+- Another individual.
+
+If the Contributor believes that existing obligations may affect ownership of proposed Work Product, the issue should be disclosed to B2C Solution before the material is incorporated.
+
+---
+
+# 13. Confidential Information
+
+The Contributor may receive confidential information while working with B2C Solution.
+
 Examples include:
-- Open-source software;
-- Stock images;
-- Fonts;
-- Icons;
-- Libraries;
-- Templates;
-- Commercial assets;
-- Third-party APIs.
-10. Open-Source Software
-Open-source components remain subject to their applicable licenses.
-The Contributor must disclose significant open-source components where required by project procedures.
-Relevant information should be recorded in:
-legal/THIRD_PARTY_LICENSES.md
-11. Contributor Representations
-The Contributor represents, to the extent applicable, that:
-- The Work Product is their original work or properly licensed;
-- They have authority to provide the Work Product;
-- They have not knowingly included unauthorized third-party material;
-- They will not knowingly introduce malicious code;
-- They will disclose relevant third-party components;
-- Their contribution does not knowingly violate another party's intellectual-property rights.
-12. Pre-Existing Obligations
-The Contributor should notify B2C Solution if another person or organization may have rights in work being contributed.
-Examples include:
-- Previous employers;
-- Existing clients;
-- Other contractors;
-- Universities or institutions;
-- Other organizations.
-The Contributor should not provide material that they are contractually prohibited from transferring or licensing.
-13. Moral Rights
-To the extent permitted by applicable law, the Contributor agrees to provide any necessary consent relating to the modification, adaptation, or use of the Work Product.
-Where applicable law does not permit assignment or waiver of certain rights, the Parties should establish the legally permitted arrangement.
-14. Further Documentation
-The Contributor agrees, where reasonably necessary, to execute additional documents required to confirm or record intellectual-property ownership.
-B2C Solution should bear reasonable costs associated with such documentation unless otherwise agreed.
-15. Confidential Information
-Work Product may contain confidential information.
-The Contributor must protect such information according to:
-legal/NDA_CONFIDENTIALITY_AGREEMENT.md
-and any applicable confidentiality obligations.
-16. Security
-The Contributor must follow applicable B2C Solution security requirements.
-The Contributor must not:
-- Publish private source code without authorization;
-- Commit credentials;
-- Share production access;
-- Introduce intentional vulnerabilities;
-- Access systems without authorization.
-Relevant security requirements are described in:
-security/SECURITY_POLICY.md
-17. Return of Company Materials
-Upon termination of the engagement or upon reasonable request, the Contributor should return or delete B2C Solution materials as required by the applicable agreement.
-This may include:
+
 - Source code;
-- Documents;
 - Credentials;
-- Design files;
-- Internal documentation;
-- Confidential information;
-- Company devices or assets.
-18. Repository Access
-Access to B2C Solution repositories may be granted only where necessary.
-B2C Solution may modify or revoke repository access when:
-- The project ends;
-- The Contributor no longer requires access;
-- Security concerns arise;
-- The Contributor's role changes;
-- The relationship ends.
-19. Public Disclosure
+- Client information;
+- Business plans;
+- Financial information;
+- Product roadmaps;
+- Unreleased features;
+- Security information;
+- Internal documentation.
+
+Such information must be protected according to applicable confidentiality obligations.
+
+---
+
+# 14. Security Responsibilities
+
+The Contributor must follow applicable B2C Solution security requirements.
+
+The Contributor must not:
+
+- Publish private source code without authorization;
+- Publish credentials;
+- Share private API keys;
+- Expose production databases;
+- Access systems without authorization;
+- Intentionally introduce malicious software;
+- Circumvent security controls without authorization.
+
+Relevant requirements are described in:
+
+`security/SECURITY_POLICY.md`
+
+---
+
+# 15. Repository Ownership
+
+B2C Solution repositories created specifically for company projects should be maintained under accounts or organizations controlled by B2C Solution where practical.
+
+The Contributor may receive access according to their role.
+
+The Contributor should not independently claim ownership of a B2C Solution repository merely because they created portions of its code.
+
+---
+
+# 16. Repository Access
+
+B2C Solution may grant the Contributor access to repositories and systems necessary for their responsibilities.
+
+Access may be:
+
+- Granted;
+- Modified;
+- Restricted;
+- Suspended;
+- Revoked;
+
+according to operational and security requirements.
+
+When the Contributor no longer requires access, B2C Solution may remove the access.
+
+---
+
+# 17. Public Disclosure
+
 The Contributor must not publicly disclose unreleased B2C Solution Work Product without authorization.
-This includes publishing:
+
+This includes:
+
+- Private source code;
+- Internal repositories;
+- Private documentation;
+- Unreleased designs;
+- Client information;
+- Internal architecture;
+- Unreleased product features.
+
+---
+
+# 18. Portfolio Use
+
+The Contributor may identify B2C Solution work as part of their portfolio only where permitted by B2C Solution and where doing so does not disclose confidential or restricted information.
+
+Publicly available B2C Solution work may be referenced where appropriate.
+
+Private or unreleased work requires authorization.
+
+---
+
+# 19. Moral Rights
+
+To the extent permitted by applicable law, the Contributor agrees to provide any necessary consent required for B2C Solution to modify, adapt, maintain, or otherwise use the Work Product.
+
+Where applicable law does not permit assignment or waiver of particular rights, those rights will be handled according to applicable law.
+
+---
+
+# 20. Further Assistance
+
+The Contributor agrees, where reasonably necessary, to provide reasonable assistance in documenting or confirming the Company's rights in Work Product.
+
+This may include signing additional documents reasonably required to establish or record ownership.
+
+---
+
+# 21. Return of Company Materials
+
+Upon termination of the Contributor's relationship with B2C Solution, or upon reasonable request, the Contributor should return or delete Company materials as appropriate.
+
+This may include:
+
 - Source code;
-- Private repositories;
-- Screenshots;
-- Product specifications;
-- Confidential designs;
+- Confidential documents;
+- Credentials;
 - Internal documentation;
-- Unreleased features.
-20. Portfolio Use
-The Contributor may only display B2C Solution Work Product in a portfolio when permitted by the applicable agreement or written authorization.
-Confidential or unreleased work must not be publicly displayed without authorization.
-21. Independent Development
-Work independently developed outside the scope of the engagement and without using B2C Solution Confidential Information remains the Contributor's property unless otherwise agreed.
-The Parties should maintain reasonable records where ownership could otherwise become unclear.
-22. No Automatic Transfer of Background IP
-Nothing in this Agreement automatically transfers the Contributor's Background IP merely because it is used during the engagement.
-Ownership of Background IP should be separately identified and documented.
-23. Term
-This Agreement begins on:
-Start Date: ______________________________
-and remains effective according to its terms and the applicable engagement.
-Intellectual-property assignments and confidentiality obligations may continue after termination where applicable.
-24. Termination
-Termination of the Contributor's engagement does not automatically reverse an intellectual-property assignment that has already become effective.
-Rights and obligations after termination will continue according to this Agreement and applicable law.
-25. No Employment Relationship
-Unless separately agreed, this Agreement does not by itself create:
-- Employment;
-- Partnership;
-- Joint venture;
-- Agency.
-The Parties' actual relationship will be determined by the applicable agreement and law.
-26. Governing Law
-The governing law and jurisdiction should be completed before execution.
-Governing Law: ______________________________
-Jurisdiction: ______________________________
-This section should be reviewed by qualified legal counsel.
-27. Dispute Resolution
+- Design files;
+- Company devices;
+- Other confidential materials.
+
+This requirement does not require deletion of records that must legally be retained.
+
+---
+
+# 22. Termination
+
+Termination of the Contributor's relationship with B2C Solution does not automatically reverse an intellectual-property assignment that has already become effective.
+
+Rights transferred under this Agreement remain subject to applicable law and the terms of the Agreement.
+
+---
+
+# 23. Independent Work
+
+Work independently created by the Contributor outside the scope of B2C Solution work remains the Contributor's property unless otherwise agreed.
+
+However, the Contributor must not use B2C Solution Confidential Information or protected materials to create competing or derivative work in violation of applicable agreements or law.
+
+---
+
+# 24. No Automatic Transfer of Personal Projects
+
+This Agreement does not automatically transfer ownership of the Contributor's unrelated personal projects.
+
+A personal project should become subject to B2C Solution ownership only where:
+
+- It is specifically created for B2C Solution;
+- It is separately assigned;
+- Or the Parties otherwise agree in writing.
+
+---
+
+# 25. Relationship With Other Agreements
+
+This Agreement should be read together with applicable B2C Solution agreements and policies, including:
+
+- `legal/NDA_CONFIDENTIALITY_AGREEMENT.md`
+- `legal/CLIENT_SERVICE_AGREEMENT.md`
+- `legal/INTELLECTUAL_PROPERTY_POLICY.md`
+- `legal/THIRD_PARTY_LICENSES.md`
+- `security/SECURITY_POLICY.md`
+
+If a separately signed agreement contains more specific intellectual-property terms, that agreement may control the relevant subject matter.
+
+---
+
+# 26. Governing Law
+
+The governing law and jurisdiction should be finalized according to the Company's legal structure and applicable law.
+
+**Governing Law:** ______________________________
+
+**Jurisdiction:** ______________________________
+
+This section should be reviewed by qualified legal counsel before execution.
+
+---
+
+# 27. Dispute Resolution
+
 The Parties should first attempt to resolve disputes through good-faith communication.
-If the dispute cannot be resolved informally, the Parties may use the dispute-resolution process specified in the applicable agreement.
-28. Severability
-If any provision is determined to be invalid or unenforceable, the remaining provisions should continue to operate to the extent permitted by law.
-29. Entire Agreement
-This Agreement and the applicable employment, contractor, freelance, project, or service agreement represent the Parties' understanding concerning the intellectual-property matters covered by this document.
-30. Amendments
-Changes to this Agreement should be made in writing and approved by the Parties.
-31. Electronic Signatures
-Where legally permitted, the Parties may execute this Agreement electronically.
-32. Notices
-B2C Solution
-Organization: B2C Solution
-Email: b2csolution2436@gmail.com
-Website: https://b2csolutionseller.lovable.app
-Contributor
-Name: Om Harde 
-Email: omharde300@gmail.com
-Address: pune 
 
-33. Document Information
-Field	Information
-Document	Intellectual Property Assignment Agreement
-Organization	B2C Solution
-Version	1.0
-Effective Date	22 August 2026
-Status	Draft / Legal Review Required
-Review Cycle	As required
-Document Owner	B2C Solution
+If a dispute cannot be resolved informally, the Parties may use the dispute-resolution procedure established in the applicable agreement.
 
+---
+
+# 28. Severability
+
+If any provision of this Agreement is determined to be invalid or unenforceable, the remaining provisions should continue to operate to the extent permitted by law.
+
+---
+
+# 29. Entire Agreement
+
+This Agreement represents the Parties' understanding regarding intellectual-property assignment for the Work Product covered by this Agreement.
+
+It does not replace other agreements governing employment, services, confidentiality, compensation, or specific projects unless expressly stated.
+
+---
+
+# 30. Amendments
+
+Any amendment to this Agreement should be made in writing and approved by the Parties.
+
+---
+
+# 31. Electronic Execution
+
+Where legally permitted, this Agreement may be executed electronically.
+
+Electronic signatures or other legally recognized methods of acceptance may be used.
+
+---
+
+# 32. Notices
+
+## B2C Solution
+
+**Organization:** B2C Solution  
+**Location:** Pune, Maharashtra, India  
+**Email:** b2csolution2436@gmail.com  
+**Website:** https://b2csolutionseller.lovable.app
+
+## Contributor
+
+**Name:** Om Harde  
+**Location:** Pune, Maharashtra, India  
+**GitHub / Online Identifier:** `omharde42-dev`
+
+---
+
+# 33. Signatures
+
+## For B2C Solution
+
+**Authorized Representative:** Om Harde
+
+**Designation:** ______________________________
+
+**Electronic / GitHub Identifier:** `omharde42-dev`
+
+**Location:** Pune, Maharashtra, India
+
+**Signature:** `omharde42-dev`
+
+**Date:** 22 August 2026
+
+
+## Contributor
+
+**Name:** Om Harde
+
+**Location:** Pune, Maharashtra, India
+
+**Electronic / GitHub Identifier:** `omharde42-dev`
+
+**Signature:** `omharde42-dev`
+
+**Date:** 22 August 2026
+
+---
+
+# 34. Important Conflict Disclosure
+
+The Company representative and Contributor identified in this document are currently the same individual:
+
+**Om Harde.**
+
+This Agreement is therefore primarily intended to establish a documented intellectual-property framework for B2C Solution and to create a foundation that can later be adapted when additional founders, employees, contractors, or contributors join the organization.
+
+When another person creates Work Product for B2C Solution, a separate agreement should identify that person and their relationship with B2C Solution.
+
+---
+
+# 35. Document Information
+
+| Field | Information |
+|---|---|
+| Document | Intellectual Property Assignment Agreement |
+| Organization | B2C Solution |
+| Contributor | Om Harde |
+| Location | Pune, Maharashtra, India |
+| Online Identifier | `omharde42-dev` |
+| Version | 1.0 |
+| Effective Date | 22 August 2026 |
+| Status | Draft / Legal Review Recommended |
+| Document Owner | B2C Solution |
+
+---
+
+## Disclaimer
+
+This document is a general intellectual-property assignment framework.
+
+It should be reviewed and customized by a qualified legal professional before being relied upon as a legally binding agreement.
+
+The enforceability and ownership of intellectual property may depend on the Company's legal structure, the Contributor's legal relationship with the Company, applicable jurisdiction, employment or contractor status, and applicable intellectual-property law.
+
+**© 2026 B2C Solution. All rights reserved.**
 Disclaimer
 This document is a general intellectual-property assignment template.
 It should be reviewed and customized by qualified legal counsel before execution. Intellectual-property ownership can depend on the contributor's relationship with B2C Solution, applicable law, employment status, jurisdiction, existing agreements, and the specific type of work created.
